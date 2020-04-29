@@ -20,6 +20,9 @@
 		},
 		{
 			"List": [
+				{ "nick": "oskar", "name": "Oskar Stucki" },
+       			{ "nick": "Anukesh", "name": "Anukesh Chauhan" },
+        		{ "nick": "Nidal ", "name": "Nidal Abu Raed" },
 				{ "nick": "01d55" },
 				{ "nick": "aBothe", "name": "Alexander Bothe" },
 				{ "nick": "Acumen", "name": "Stuart Walpole" },

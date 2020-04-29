@@ -1,5 +1,6 @@
 {
   "search.exclude": {
     "binaries/system/**": false
-  }
+  },
+  "editor.formatOnSave": false
 }
