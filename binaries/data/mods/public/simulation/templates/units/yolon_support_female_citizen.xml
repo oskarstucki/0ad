@@ -23,7 +23,7 @@
   <Builder>
     <Rate>10.0</Rate>
     <Entities datatype="tokens">
-      structures/{civ}_free_barracks
+      structures/{civ}_barracks
       structures/{civ}_civil_centre
       structures/{civ}_crannog
       structures/{civ}_military_colony
@@ -47,13 +47,13 @@
     </Resources>
   </Cost>
   <Identity>
-    <Civ>athen</Civ>
+    <Civ>Yolon</Civ>
     <SpecificName>Gýnē Athēnaía</SpecificName>
-    <GenericName>Athenian Woman</GenericName>
+    <GenericName>Yolonian Woman</GenericName>
     <Icon>units/hele_support_female_citizen.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/athenians/female_citizen.xml</Actor>
+    <Actor>units/yolon/female_citizen.xml</Actor>
   </VisualActor>
   <ResourceGatherer>
     <MaxDistance>5.0</MaxDistance>
