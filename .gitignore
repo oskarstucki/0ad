@@ -17,7 +17,7 @@ binaries/system/pyrogenesis_dbg
 binaries/system/pyrogenesis_dbg.pdb
 binaries/system/test
 binaries/system/test_dbg
-binaries/system/*
+#binaries/system/*
 
 build/workspaces/codeblocks/
 build/workspaces/gcc/
